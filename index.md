@@ -1,3 +1,3 @@
-# [Tsukasa]'s Portfolio
+# Tsukasa's Portfolio
 
 Welcome! Work in progress.
