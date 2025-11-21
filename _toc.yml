@@ -4,6 +4,8 @@ chapters:
   - file: lecture_16_example
     title: Lecture 16 Example
   - file: project1  
-    title: Project #1
+    title: Project 1#1
   - file: lab_11
-    title: lab #11
+    title: lab 11
+  - file: project2
+    title: project 2
