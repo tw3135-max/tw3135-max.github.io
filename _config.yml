@@ -24,9 +24,3 @@ sphinx:
 
 execute:
   execute_notebooks: "auto"
-
-import plotly.express as px
-from IPython.display import HTML
-
-# Wherever you have fig.show() replace it with this code:
-HTML(fig.to_html(include_plotlyjs="cdn", full_html=False))
