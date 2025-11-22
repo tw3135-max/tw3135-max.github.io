@@ -10,9 +10,6 @@ exclude_patterns:
   - .pytest_cache/*
   - .venv/*
 
-execute:
-  execute_notebooks: "off"
-
 sphinx:
   config:
     # https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
@@ -23,4 +20,4 @@ sphinx:
     suppress_warnings: ["mystnb.unknown_mime_type"]
 
 execute:
-  execute_notebooks: "auto"
+  execute_notebooks: "force"
